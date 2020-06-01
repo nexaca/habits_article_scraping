@@ -5,7 +5,7 @@ article_scraping_from_website
 
 A scraping project to get free articles from zenhabits.com
 
-``
+## INTRODUCTION 
 1. Download `main.py` and `modules.py` to any convenient folder
 2. run your terminal (on Ubuntu) or on Windows CTRL-R and write `cmd`  
 3. Write to code below 
